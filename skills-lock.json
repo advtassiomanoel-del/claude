@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "skills": {
+    "gh-fix-ci": {
+      "source": "openai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/.curated/gh-fix-ci/SKILL.md",
+      "computedHash": "c937071ab3bf10c67ce9ca4152f318de0d9fbb5a24e2652a7e7d5a760bbc31be"
+    },
+    "jupyter-notebook": {
+      "source": "openai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/.curated/jupyter-notebook/SKILL.md",
+      "computedHash": "1c916a3da1adb570021712959aa51f992ed8f9c1de50b79f5eca43fffb0a2c4e"
+    }
+  }
+}
